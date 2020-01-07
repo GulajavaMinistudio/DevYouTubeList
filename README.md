@@ -1,5 +1,5 @@
 # Amazing Developers On YouTube
-> A curated list of amazing development YouTube channels.
+> A curated list of amazing development channels on YouTube. These include web development, back-end development, front-end development live coders and more!
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
@@ -100,7 +100,9 @@
 * [Lee Gaines](https://www.youtube.com/c/leegaines)
 * [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
 * [Weibenfalk](https://www.youtube.com/c/weibenfalk)
-
+* [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
+* [CodeBlobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
+* [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 
 
 ### Informational
@@ -164,6 +166,8 @@
 * [Alexander Alemayhu](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
 * [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
 * [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+* [More live w/ René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
+* [Bits & more by René Rebe](https://www.youtube.com/user/renerebe)
 
 
 ### Software Entertainment
@@ -230,12 +234,12 @@
 * [Better Coding Academy](https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA)
 * [All things JavaScript, LLC](https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w)
 * [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
-* [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
 * [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 * [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 * [Cody Seibert](https://youtube.com/c/codyseibert)
+* [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
 
 
 ### Retired
